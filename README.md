@@ -1,0 +1,1 @@
+# gatsby-starter-decap-cms
